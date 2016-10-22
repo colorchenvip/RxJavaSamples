@@ -1,6 +1,7 @@
-RxSamples
+
+##在高手肩膀上练功之RxSamples
 ================
-RxJava 和 Retrofit 结合使用的几个最常见使用方式举例。
+##RxJava 和 Retrofit 结合使用的几个最常见使用方式举例。
 
 1. **基本使用**
 
@@ -33,4 +34,4 @@ RxJava 和 Retrofit 结合使用的几个最常见使用方式举例。
   ![screenshot_6](./images/screenshot_6.png)
 
 ### apk 下载
-[RxJavaSamples_1.01.apk](https://github.com/rengwuxian/RxJavaSamples/releases/download/1.01/RxJavaSamples_1.01.apk)
+[RxJavaSamples_1.01.apk](https://github.com/colorchenvip/RxJavaSamples/download/RxJavaSample_1.01.apk)
